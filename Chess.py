@@ -35,21 +35,21 @@ def stob(x):
     b = (x[1] * 50) + 25
     return (b, a)
 
-rd = PhotoImage(file='rd.png')
-nd = PhotoImage(file='nd.png')
-bd = PhotoImage(file='bd.png')
-qd = PhotoImage(file='qd.png')
-kd = PhotoImage(file='kd.png')
-pd = PhotoImage(file='pd.png')
+rd = PhotoImage(file='image/rd.png')
+nd = PhotoImage(file='image/nd.png')
+bd = PhotoImage(file='image/bd.png')
+qd = PhotoImage(file='image/qd.png')
+kd = PhotoImage(file='image/kd.png')
+pd = PhotoImage(file='image/pd.png')
 # l = white
-rl = PhotoImage(file='rl.png')
-nl = PhotoImage(file='nl.png')
-bl = PhotoImage(file='bl.png')
-ql = PhotoImage(file='ql.png')
-kl = PhotoImage(file='kl.png')
-pl = PhotoImage(file='pl.png')
-xx = PhotoImage(file='xx.png')
-yy = PhotoImage(file='yy.png')
+rl = PhotoImage(file='image/rl.png')
+nl = PhotoImage(file='image/nl.png')
+bl = PhotoImage(file='image/bl.png')
+ql = PhotoImage(file='image/ql.png')
+kl = PhotoImage(file='image/kl.png')
+pl = PhotoImage(file='image/pl.png')
+xx = PhotoImage(file='image/xx.png')
+yy = PhotoImage(file='image/yy.png')
 
 
 def possiblemoves(x):
